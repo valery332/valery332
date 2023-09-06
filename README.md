@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @valery332
+- 👋 Hi, I’m Valery Osorio
 - 👀 I’m interested in analyzing software problems, execution, and program coding.
 - 🌱 I’m currently learning programming and software analysis.
 - 💞️ I’m looking to collaborate on programming and research projects on problems or failure of technological services.
